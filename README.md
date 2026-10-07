@@ -23,15 +23,15 @@ The board also includes a 10kΩ bleeder resistor for the filter capacitor and a 
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](ACDC/Schematic.png)
 
 ## PCB
 
-![PCB Layout](images/pcb-layout.png)
+![PCB Layout](ACDC/PCB_ACDC.png)
 
 ## 3D View
 
-![3D View](images/pcb-3d.png)
+![3D View](ACDC/Board.png)
 
 ## Components
 
